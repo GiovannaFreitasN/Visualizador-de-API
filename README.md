@@ -9,7 +9,7 @@ Um exercício feito com o objetico de criar um visualizador de APIs públicas qu
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/
+git clone https://github.com/GiovannaFreitasN/Visualizador-de-API
 cd api-viewer
 ```
 
