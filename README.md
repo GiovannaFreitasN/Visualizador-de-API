@@ -1,4 +1,4 @@
-# Visualizador de API
+# API Viewer
 
 Um exercício feito com o objetico de criar um visualizador de APIs públicas que permite consultar diferentes serviços online: 
 - **Consulta de CEP**: Busca informações de endereço pelo CEP brasileiro
